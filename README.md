@@ -5,12 +5,12 @@ The scope of this project is to study and analyse the performance of different r
 The different analysis going to be performed are:
 
 A.	Store Based Performance<br>
-   •	Product Based Analysis
-   •	MRP Based Analysis
-   •	Category Based Analysis
-   •	Size Based Analysis
-   •	Bottom Wear Analysis
-   •	Sales Return Analysis
-B.	Zone Based Performance
-C.	Product Based Performance
+   •	Product Based Analysis<br>
+   •	MRP Based Analysis<br>
+   •	Category Based Analysis<br>
+   •	Size Based Analysis<br>
+   •	Bottom Wear Analysis<br>
+   •	Sales Return Analysis<br>
+B.	Zone Based Performance<br>
+C.	Product Based Performance<br>
 
